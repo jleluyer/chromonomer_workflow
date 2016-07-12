@@ -1,0 +1,29 @@
+##agp-version 2.0
+# Format: object object_beg object_end part_number component_type component_id component_beg component_end  orientation
+#   Gaps: object object_beg object_end part_number     N          gap_length   gap_type      linkage        evidence
+NT_167471.1     1       2088    1       W       AERX01024871.2  1       2088    +
+NT_167471.1     2089    2182    2       N       94      scaffold        yes     paired-ends
+NT_167471.1     2183    72360   3       W       AERX01024872.2  1       70178   +
+NT_167471.1     72361   74281   4       N       1921    scaffold        yes     paired-ends
+NT_167471.1     74282   94987   5       W       AERX01024873.1  1       20706   +
+NT_167471.1     94988   95159   6       N       172     scaffold        yes     paired-ends
+NT_167471.1     95160   97643   7       W       AERX01024874.1  1       2484    +
+NT_167471.1     97644   97746   8       N       103     scaffold        yes     paired-ends
+NT_167471.1     97747   169542  9       W       AERX01024875.1  1       71796   +
+NT_167471.1     169543  169724  10      N       182     scaffold        yes     paired-ends
+NT_167471.1     169725  172019  11      W       AERX01024876.2  1       2295    +
+NT_167471.1     172020  172383  12      N       364     scaffold        yes     paired-ends
+NT_167471.1     172384  218315  13      W       AERX01024877.1  1       45932   +
+NT_167471.1     218316  219641  14      N       1326    scaffold        yes     paired-ends
+NT_167471.1     219642  229011  15      W       AERX01024878.1  1       9370    +
+NT_167471.1     229012  230044  16      N       1033    scaffold        yes     paired-ends
+NT_167471.1     230045  257949  17      W       AERX01024879.1  1       27905   +
+NT_167471.1     257950  257969  18      N       20      scaffold        yes     paired-ends
+NT_167471.1     257970  259445  19      W       AERX01024880.1  1       1476    +
+NT_167471.1     259446  259520  20      N       75      scaffold        yes     paired-ends
+NT_167471.1     259521  302240  21      W       AERX01024881.1  1       42720   +
+NT_167471.1     302241  302260  22      N       20      scaffold        yes     paired-ends
+NT_167471.1     302261  322984  23      W       AERX01024882.1  1       20724   +
+NT_167471.1     322985  323137  24      N       153     scaffold        yes     paired-ends
+NT_167471.1     323138  326480  25      W       AERX01024883.1  1       3343    +
+.....
